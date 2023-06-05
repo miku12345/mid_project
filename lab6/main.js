@@ -1,4 +1,4 @@
-var video_list=["sample-mp4-file.mp4","【赤井心】心廚房之第一次的鬆餅.mp4","【VT翻譯系列】はあちゃま廚房主題曲【赤井はあと】.mp4","これで君も頭はあちゃまっちゃま～.mp4"]
+var video_list=["sample-mp4-file.mp4","【赤井心】心廚房之第一次的鬆餅.mp4","【VT翻譯系列】はあちゃま廚房主題曲【赤井はあと】.mp4","これで君も頭はあちゃまっちゃま～.mp4","【魔乃アロエ】ハッピーシンセサイザ（中日字幕）【Vtuber歌枠】.mp4"]
 var num,volume,rate;
 $(function(){
     num=0;
