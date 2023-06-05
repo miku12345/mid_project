@@ -50,7 +50,7 @@ $(function(){
         $("#myVideo")[0].pause();
         $("#playBtn").text("Play");
         num+=1;
-        num%=4;
+        num%=video_list.length;
         $("#myVideo").attr("src",video_list[num]);
         $("#myVideo")[0].volume=volume;
         $("#myVideo")[0].playbackRate=rate;
